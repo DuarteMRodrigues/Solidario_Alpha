@@ -6,6 +6,7 @@ public class Ementa {
 	Prato[] prato = new Prato[5]; 
 	Date dia;
 	String descricao;
+        int teste;
 	 
 	public Prato[] getPrato() {
 		return prato;
