@@ -3,10 +3,10 @@ package model;
 import java.util.Date;
 
 public class Ementa {
-	Prato[] prato = new Prato[5];
+	Prato[] prato = new Prato[5]; 
 	Date dia;
 	String descricao;
-	
+	 
 	public Prato[] getPrato() {
 		return prato;
 	}
