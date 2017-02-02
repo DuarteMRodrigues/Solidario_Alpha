@@ -1,7 +1,5 @@
 package model;
 
-import model.Produtos;
-
 public class Prato extends Produtos{
 	String nome;
 	Produtos[] ingredientes = new Produtos[15];

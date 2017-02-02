@@ -1,5 +1,5 @@
 package model;
 
 public class Utentes {
-	/*		NECESSÁRIO ALERGIAS		*/
+	/*		NECESSARIO ALERGIAS		*/
 }
